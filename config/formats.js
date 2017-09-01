@@ -86,7 +86,7 @@ exports.Formats = [
 
 		mod: 'gen7',
 		ruleset: ['[Gen 7] RU'],
-		banlist: ['RU', 'BL3', 'Drought'],
+		banlist: ['RU', 'BL3', 'Drought', 'Aurora Veil'],
 	},
 	{
 		name: "[Gen 7] PU (beta)",
